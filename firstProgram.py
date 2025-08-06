@@ -1,5 +1,3 @@
-print('hello SWE')#
-print("help me")#
 a=4
 b=4
 sum=a+b
