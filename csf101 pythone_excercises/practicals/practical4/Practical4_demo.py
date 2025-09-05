@@ -81,3 +81,4 @@ print(ll.search(4))  # Output: 1
 print(ll.search(5))  # Output: -1
 ll.reverse()
 ll.display()  # Output: 3 -> 4 -> 1
+
